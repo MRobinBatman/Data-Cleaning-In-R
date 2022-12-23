@@ -1,0 +1,233 @@
+student_num,school_type,school_population,student_age,student_absences,student_gpa
+327,middle school,690,14,9,3.248
+328,college ug,21240,21,5,2.41
+329,elementary,353,7,13,3.4096
+330,high school,1586,16,13,2.91
+331,post bach,4380,27,2,3.478
+332,college ug,30330,22,9,1.248
+333,college ug,52260,21,9,0.868
+334,college ug,48000,20,10,0.55
+335,junior high,174,13,5,3.63
+336,college ug,39000,18,5,2.44
+337,middle school,274,12,17,2.514
+338,primary,291,9,19,3.0548
+339,graduate school,3375,27,2,3.508
+340,middle school,740,12,18,2.706
+341,college UG,43440,19,9,0.708
+342,High School,509,15,11,3.15
+343,High School,268,17,9,3.85
+344,middle school,520,12,13,3.166
+345,high school,505,17,16,2.77
+346,elementary,501,10,18,3.4856
+347,middle school,507,12,13,2.726
+348,college ug,52710,19,9,1.238
+349,middle school,450,12,5,3.81
+350,college UG,32760,20,4,2.248
+351,post bach,4235,27,3,3.227
+352,college GR,5140,26,7,2.423
+353,post bach,1340,23,7,2.613
+354,High School,1525,15,18,
+355,high school,1187,17,14,3.16
+356,college ug,44190,18,10,0.75
+357,junior high,365,11,13,2.946
+358,primary,377,9,15,3.108
+359,college ug,,20,7,1.524
+360,post bach,4730,26,6,2.534
+361,college ug,52980,21,11,0.352
+362,college ug,23130,19,8,1.456
+363,junior high,174,11,19,2.608
+364,college ug,28560,22,11,0.542
+365,graduate school,5570,24,70,3.228
+366,high school,696,18,4,4.19
+367,college GR,3305,25,7,2.713
+368,college UG,29880,22,10,0.6
+369,elementary,195,9,20,3.364
+370,high school,1509,15,8,4
+371,primary,247,7,24,2.9708
+372,high school,213,17,6,4.11
+373,college GR,7580,27,5,2.665
+374,High School,539,16,7,
+375,post bach,4575,23,2,3.188
+376,graduate school,6720,23,8,2.542
+377,elementary,89,9,15,3.598
+378,college ug,29910,21,6,1.842
+379,elementary,358,8,14,3.3988
+380,high school,1305,16,17,2.52
+381,middle school,,11,5,3.39
+382,college ug,21720,20,3,3.106
+383,Elementary,77,7,17,3.2964
+384,college ug,15240,20,9,
+385,Elementary,501,8,21,3.2332
+386,junior high,569,12,18,2.326
+387,High School,,14,14,2.66
+388,High School,881,16,18,2.48
+389,high school,1330,14,7,3.98
+390,High School,300,16,8,3.91
+391,post bach,3220,23,6,2.984
+392,high school,529,18,4,4.23
+393,High School,1702,15,12,3.21
+394,graduate school,5375,25,5,2.955
+395,college ug,41310,20,10,0.47
+396,elementary,508,6,15,3.348
+397,high school,876,16,18,2.43
+398,high school,451,18,18,2.03
+399,college ug,30930,21,8,
+400,high school,604,18,5,4.38
+401,high school,1149,16,18,2.32
+402,high school,1457,14,15,2.98
+403,college ug,42840,18,8,1.316
+404,junior high,354,12,17,2.694
+405,high school,1398,18,6,4.33
+406,middle school,122,10,6,3.712
+407,college UG,24480,20,11,0.652
+408,college ug,15510,19,11,0.502
+409,college ug,52290,20,4,2.308
+410,High School,1653,18,8,3.65
+411,middle school,646,14,7,3.434
+412,post bach,6020,24,5,2.655
+413,post bach,4720,23,8,2.602
+414,middle school,611,11,14,2.688
+415,middle school,601,13,5,3.35
+416,college ug,28440,20,4,2.638
+417,college ug,30960,21,4,2.318
+418,junior high,190,14,22,2.264
+419,college ug,8460,21,3,2.796
+420,graduate school,3670,25,7,2.383
+421,college UG,40140,21,4,2.298
+422,middle school,734,10,11,2.832
+423,college ug,47730,22,3,2.906
+424,middle school,465,12,12,3.084
+425,high school,,14,14,3
+426,college ug,9120,22,5,2.36
+427,graduate school,5595,24,6,2.634
+428,elementary,244,10,11,3.7612
+429,primary,524,9,12,3.5204
+430,college GR,2440,25,2,3.438
+431,high school,459,17,15,2.79
+432,post bach,,27,7,2.633
+433,college UG,27000,20,8,1.316
+434,primary,511,8,10,3.842
+435,middle school,577,13,12,3.054
+436,High School,1445,16,14,2.97
+437,junior high,870,12,6,3.252
+438,graduate school,3455,24,3,3.037
+439,graduate school,8205,26,5,2.685
+440,graduate school,7410,25,2,3.208
+441,elementary,288,9,10,3.482
+442,High School,1317,18,7,3.83
+443,middle school,682,11,7,3.444
+444,primary,293,8,15,3.138
+445,college ug,20700,22,7,1.614
+446,elementary,184,8,19,3.1648
+447,High School,1409,17,11,3.28
+448,middle school,255,13,21,2.182
+449,college UG,45240,21,8,1.106
+450,college UG,14040,21,8,1.576
+451,high school,996,17,6,3.93
+452,middle school,896,10,15,2.77
+453,primary,89,8,10,3.392
+454,graduate school,2360,23,4,3.106
+455,middle school,587,12,7,3.264
+456,post bach,1725,26,4,3.176
+457,college UG,16650,21,10,0.81
+458,junior high,282,12,18,2.676
+459,junior high,134,11,14,3.108
+460,middle school,698,14,13,2.836
+461,middle school,138,10,14,3.038
+462,high school,1290,14,10,3.4
+463,post bach,6440,26,4,3.226
+464,high school,209,14,18,2.41
+465,High School,1439,18,9,
+466,junior high,827,14,11,3.162
+467,middle school,321,14,15,2.83
+468,high school,1291,18,11,3.16
+469,elementary,224,6,15,3.668
+470,High School,1155,17,6,4.03
+471,college UG,17580,18,7,1.624
+472,middle school,385,12,5,3.84
+473,high school,254,15,18,2.16
+474,primary,402,7,19,3.3848
+475,high school,991,16,66,2.67
+476,college ug,22560,18,5,2.38
+477,college GR,6095,25,7,2.713
+478,middle school,637,12,6,3.612
+479,high school,1447,18,10,3.35
+480,middle school,351,13,7,3.474
+481,college GR,4550,25,6,2.994
+482,primary,286,6,7,3.8744
+483,graduate school,3225,26,5,2.645
+484,middle school,242,14,19,2.268
+485,primary,128,8,19,3.2848
+486,elementary,159,8,10,3.312
+487,middle school,187,11,12,3.184
+488,middle school,565,14,20,2.65
+489,high school,1739,17,4,4.3
+490,elementary,201,8,15,3.178
+491,college ug,47490,22,9,0.988
+492,primary,211,9,14,3.1988
+493,post bach,3090,25,5,2.825
+494,primary,388,8,20,3.414
+495,middle school,615,12,13,2.716
+496,college ug,25350,20,8,1.576
+497,graduate school,3680,25,2,3.178
+498,middle school,648,12,12,3.104
+499,college UG,36450,18,7,1.604
+500,junior high,298,14,13,2.746
+501,elementary,62,10,15,3.218
+502,middle school,688,12,17,2.654
+503,college ug,9750,20,6,1.982
+504,elementary,183,10,6,3.8652
+505,Elementary,493,8,9,3.7128
+506,college UG,28320,22,5,2.33
+507,middle school,441,12,16,2.482
+508,High School,321,17,11,3.44
+509,middle school,268,13,22,2.504
+510,middle school,501,13,11,2.902
+511,high school,1188,14,11,3.43
+512,middle school,330,12,6,3.342
+513,junior high,,14,13,2.696
+514,junior high,400,10,13,2.796
+515,graduate school,4380,23,8,2.472
+516,college ug,51390,22,5,2.37
+517,college ug,19710,22,10,0.6
+518,college UG,,20,10,0.8
+519,high school,1147,18,10,3.64
+520,high school,1401,17,5,4.19
+521,college GR,2655,25,4,3.036
+522,elementary,380,8,18,3.4456
+523,college UG,12900,20,6,2.192
+524,middle school,113,12,16,2.832
+525,graduate school,6055,25,2,3.288
+526,middle school,702,10,22,2.094
+527,college UG,25560,19,7,1.844
+528,high school,659,15,7,4.1
+529,college UG,37860,20,6,2.162
+530,elementary,200,10,7,3.5044
+531,post bach,3670,23,5,2.915
+532,college UG,43020,22,9,0.978
+533,High School,704,18,6,4.34
+534,Elementary,81,9,21,3.0432
+535,middle school,774,13,5,3.7
+536,high school,443,15,11,3.34
+537,High School,457,18,15,2.63
+538,college UG,51240,18,6,1.772
+539,graduate school,4465,25,6,2.874
+540,middle school,101,10,14,3.128
+541,college UG,25230,20,4,2.458
+542,post bach,1755,25,4,3.196
+543,Elementary,521,10,24,
+544,middle school,375,11,13,3.106
+545,elementary,384,7,15,3.438
+546,middle school,543,10,13,2.786
+547,post bach,3050,26,6,2.634
+548,college UG,25290,20,4,2.598
+549,high school,374,16,12,3.07
+550,middle school,614,13,16,2.912
+551,high school,337,18,14,3.05
+552,junior high,413,12,5,3.58
+553,elementary,436,6,22,2.9424
+554,High School,1469,15,6,4
+555,college GR,2175,27,5,2.615
+556,High School,471,17,7,4.1
+557,college UG,36300,20,7,1.614
+558,middle school,865,13,13,2.986
